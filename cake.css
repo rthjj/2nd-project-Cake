@@ -3,7 +3,7 @@
     height: 250px;
 }
 .entet {
-    background-color:rgb(81, 114, 136);
+    background-color: pink;
     color: rgb(243, 243, 219);
     font-size: 25px;
     text-align: center;
@@ -19,7 +19,7 @@ margin: -3px;
 width: auto;
 height: 45px;
 margin-top: -25px;
-background-color: rgb(81, 114, 136);
+background-color: pink;
 }
 .menu ul li {
     position: relative;
@@ -46,7 +46,7 @@ ul li a:hover{
 .menu ul ul li a{
     clear: both;
     display: block;
-    background-color: rgb(81, 114, 136);
+    background-color: pink;
     width: 180px;
     height: 40px;
     text-align: center;
@@ -59,7 +59,7 @@ ul li a:hover{
     visibility: visible;
 }
 body {
-    background-color: lightsteelblue;
+    background-color: white;
 }
 .title {
     text-align: center;
@@ -69,16 +69,17 @@ body {
     font-variant: initial;
     font-size: 20px;
     color: lightcoral;
-    background-color: rgb(81, 114, 136);
+    background-color: pink;
     font-family: cursive;
 }
 h2 {
-    color: rgb(51, 123, 168);
+    color: rosybrown;
     font-size: 30px;
     font-weight: lighter;
     font-style: italic;
     margin-left: 1%;   
     font-family: cursive;
+    text-align: center;
 
 }
 .para {
@@ -107,6 +108,7 @@ h3 {
     font-size: 25px;
     font-weight: lighter;
     text-shadow: 0 0 10px gray;
+    margin-left: 7%;
 }
 aside, p {
     margin-right: 10%;
@@ -126,7 +128,7 @@ img {
 }
 .end {
     margin-bottom: 50px;
-    text-shadow: 0 0 5px blue;
+    text-shadow: 0 0 5px palevioletred;
 }
 .footer-wrapper{
     width: 1000px;
